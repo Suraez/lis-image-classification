@@ -1,1 +1,1 @@
-### just a fun project for detecting collagues face using DL
+### Just a fun project for detecting collagues face using DL
