@@ -4,7 +4,7 @@ import cv2
 from PIL import Image, ImageOps
 import numpy as np
 
-loaded_model = tf.keras.models.load_model('lis_image.hdf5')
+loaded_model = tf.keras.models.load_model('new_model.hdf5')
 
 developerMap = {
     0: 'Bhabuk Kunwar',
